@@ -10,6 +10,6 @@
 
 <body>
 
-<?php include "../body/istec_body_inicio.php";?>
+<?php include "./header/istec_header.php";?>
 <?php include "../referencias/istec_js.php";?>
 </body>
