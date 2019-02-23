@@ -1,0 +1,23 @@
+.redSocial-Facebook {
+    color: #094151;
+}
+
+.redSocial-Instagram {
+    color: #094151;
+}
+
+.redSocial-Twiter {
+    color: #094151;
+}
+
+.redSocial-Facebook:hover {
+    color: blue;
+}
+
+.redSocial-Instagram:hover {
+    color: deeppink;
+}
+
+.redSocial-Twiter:hover {
+    color: deepskyblue;
+}

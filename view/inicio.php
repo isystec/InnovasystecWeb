@@ -10,8 +10,8 @@
 
 <!doctype html>
 <html lang="es">
-<?php include './referencias/istec_css.php' ?>
 <head>
+    <?php include './referencias/istec_css.php' ?>
     <title>Innovasystec</title>
 </head>
 <?php include "./body/istec_body_inicio.php"; ?>
