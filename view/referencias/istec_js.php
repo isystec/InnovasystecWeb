@@ -16,9 +16,11 @@
         if (screen.width < 992) {
             $('#navbarText').addClass('border-top');
             $('#navbarText').addClass('borde-sup');
+            $('#mt-inicio').addClass('borde-sup');
         } else {
             $('#navbarText').removeClass('border-top');
             $('#navbarText').removeClass('borde-sup');
+            $('#mt-inicio').removeClass('borde-sup');
         }
     }
 </script>

@@ -7,7 +7,7 @@
  */
 ?>
 
-    <nav class="container">
+    <nav class="container mt-2 mb-2">
         <section class="navbar navbar-expand-lg navbar-light">
 
             <a class="navbar-brand letraLogo" href="#">
@@ -18,9 +18,9 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse form-check" id="navbarText">
-                <ul class="navbar-nav mr-auto">
+                <ul class="navbar-nav ml-auto">
                     <li class="nav-item active">
-                        <a class="nav-link letraNav" href="#">Inicio</a>
+                        <a id="mt-inicio" class="nav-link letraNav" href="#">Inicio</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link letraNav" href="#">Nosotros</a>
