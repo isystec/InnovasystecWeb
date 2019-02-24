@@ -36,10 +36,6 @@
     .letraLogo:after {
         content: 'ISysTec';
     }
-
-    .borde-sup {
-        border-top: 1px solid #dee2e6!important;
-    }
 }
 
 @media screen and (min-width: 375px){
@@ -50,10 +46,6 @@
 
     .letraLogo:after {
         content: 'ISysTec';
-    }
-
-    .borde-sup {
-        border-top: 1px solid #dee2e6!important;
     }
 }
 
@@ -66,9 +58,6 @@
     .letraLogo:after {
         content: 'ISysTec';
     }
-    .borde-sup {
-        border-top: 1px solid #dee2e6!important;
-    }
 }
 
 @media screen and (min-width: 768px){
@@ -80,14 +69,27 @@
     .letraLogo:after {
         content: 'InnovaSysTec';
     }
-
-    .borde-sup {
-        border-top: 0;
-    }
 }
 
+@media screen and (min-width: 992px){
+    .letraLogo {
+        font-size: 30px;
+        font-family: 'Righteous', cursive;
+    }
+
+    .letraLogo:after {
+        content: 'InnovaSysTec';
+    }
+}
 
 .logo {
     width: 50px;
 }
 
+.borde-sup {
+    margin-top: 10px;
+}
+
+.letraNav {
+    font-weight: bold;
+}
