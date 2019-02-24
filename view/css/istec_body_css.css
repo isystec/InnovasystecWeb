@@ -1,13 +1,16 @@
 .redSocial-Facebook {
     color: #094151;
+    font-size: 20px;
 }
 
 .redSocial-Instagram {
     color: #094151;
+    font-size: 20px;
 }
 
 .redSocial-Twiter {
     color: #094151;
+    font-size: 20px;
 }
 
 .redSocial-Facebook:hover {
@@ -21,3 +24,70 @@
 .redSocial-Twiter:hover {
     color: deepskyblue;
 }
+
+/*********************************************/
+
+@media screen and (min-width: 0px){
+    .letraLogo {
+        font-size: 30px;
+        font-family: 'Righteous', cursive;
+    }
+
+    .letraLogo:after {
+        content: 'ISysTec';
+    }
+
+    .borde-sup {
+        border-top: 1px solid #dee2e6!important;
+    }
+}
+
+@media screen and (min-width: 375px){
+    .letraLogo {
+        font-size: 30px;
+        font-family: 'Righteous', cursive;
+    }
+
+    .letraLogo:after {
+        content: 'ISysTec';
+    }
+
+    .borde-sup {
+        border-top: 1px solid #dee2e6!important;
+    }
+}
+
+@media screen and (min-width: 425px){
+    .letraLogo {
+        font-size: 30px;
+        font-family: 'Righteous', cursive;
+    }
+
+    .letraLogo:after {
+        content: 'ISysTec';
+    }
+    .borde-sup {
+        border-top: 1px solid #dee2e6!important;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .letraLogo {
+        font-size: 30px;
+        font-family: 'Righteous', cursive;
+    }
+
+    .letraLogo:after {
+        content: 'InnovaSysTec';
+    }
+
+    .borde-sup {
+        border-top: 0;
+    }
+}
+
+
+.logo {
+    width: 50px;
+}
+
