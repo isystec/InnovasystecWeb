@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+
+body {
+    font-family: 'Roboto Slab', serif;
+}
+
 .redSocial-Facebook {
     color: #094151;
     font-size: 20px;
@@ -126,4 +132,20 @@
 
 .footer_botom {
     background-color: #0098ca;
+    font-size: 15px;
 }
+
+/*******************Card Services*************************************/
+
+.text-services {
+    color: #094151;
+    border-bottom: #094151;
+}
+
+.linea_de_subrayado {
+    width: 300px;
+    height: 2px;
+    display: inline-block;
+    background: #094151;
+}
+
