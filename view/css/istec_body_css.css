@@ -25,7 +25,7 @@
     color: deepskyblue;
 }
 
-/*********************************************/
+/******************Barra de Navegacion***************************/
 
 @media screen and (min-width: 0px){
     .letraLogo {
@@ -92,4 +92,38 @@
 
 .letraNav {
     font-weight: bold;
+}
+
+/*******************Footer*************************************/
+
+.detalles_footer {
+    background-color: #00aed1;
+    color: white;
+}
+
+.link_footer {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    text-underline: none;
+}
+
+.link_footer:hover {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    text-underline: none;
+}
+
+.btn-outline-light:hover {
+    background-color: #094151;
+    border: #094151;
+}
+
+.titulos_footer {
+    font-weight: bold;
+}
+
+.footer_botom {
+    background-color: #0098ca;
 }
