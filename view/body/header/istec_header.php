@@ -1,12 +1,3 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: Alejandro
- * Date: 23/02/2019
- * Time: 16:34
- */
-?>
-
     <header class="border-bottom">
         <section class="container">
             <section class="container row justify-content-lg-end">

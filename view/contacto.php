@@ -4,5 +4,5 @@
     <?php include './referencias/istec_css.php' ?>
     <title>InnovaSysTec</title>
 </head>
-<?php include "./body/istec_body_inicio.php"; ?>
+<?php include "./body/istec_body_contacto.php"; ?>
 </html>

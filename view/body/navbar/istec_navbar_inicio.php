@@ -1,16 +1,7 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: Alejandro
- * Date: 23/02/2019
- * Time: 16:37
- */
-?>
-
     <nav class="container mt-2 mb-2">
         <section class="navbar navbar-expand-lg navbar-light">
 
-            <a class="navbar-brand letraLogo" href="#">
+            <a class="navbar-brand letraLogo" href="inicio.php">
                 <img src="./img/logo.jpg" class="d-inline-block align-top logo" alt="">
             </a>
 
@@ -20,13 +11,13 @@
             <div class="collapse navbar-collapse form-check" id="navbarText">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item active">
-                        <a id="mt-inicio" class="nav-link letraNav" href="#">Inicio</a>
+                        <a id="mt-inicio" class="nav-link letraNav" href="inicio.php">Inicio</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link letraNav" href="#">Nosotros</a>
+                        <a class="nav-link letraNav" href="nosotros.php">Nosotros</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link letraNav" href="#">Contacto</a>
+                        <a class="nav-link letraNav" href="contacto.php">Contacto</a>
                     </li>
                 </ul>
             </div>
