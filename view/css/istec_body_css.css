@@ -149,3 +149,18 @@ body {
     background: #094151;
 }
 
+
+/*******************Nosotros*************************************/
+
+.imagen {
+    background-image: url("../img/nosotros.jpg");
+    background-position: center;
+}
+
+.titulo_nosotros_banner {
+    color: white;
+}
+
+.texto_nosotros_banner {
+    color: white;
+}
