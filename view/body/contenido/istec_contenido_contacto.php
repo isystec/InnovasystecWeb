@@ -1,25 +1,25 @@
 <div class="container py-3">
     <div class="row">
         <div class="col-md-7">
-            <form action="">
+            <form action="php/formcontacto.php" method="post">
                 <div class="form-group">
                     <label for="">Nombre</label>
-                    <input type="text" class="form-control">
+                    <input type="text" name="nombre" class="form-control" required>
                 </div>
                 <div class="form-group">
                     <label for="">Teléfono</label>
-                    <input type="text" class="form-control">
+                    <input type="text" name="telefono" class="form-control" required>
                 </div>
                 <div class="form-group">
                     <label for="">Correo</label>
-                    <input type="email" class="form-control">
+                    <input type="email" name="correo" class="form-control" required>
                 </div>
                 <div class="form-group">
                     <label for="">Mensaje</label>
-                    <textarea name="" class="form-control"></textarea>
+                    <textarea name="mensaje" class="form-control msjcontacto" required></textarea>
                 </div>
                 <div class="form-group">
-                    <input type="submit" class="btn btn-primary btn-block">
+                    <input type="submit" class="btn btn-block btncontacto">
                 </div>
             </form>
         </div>
@@ -39,5 +39,4 @@
             </div>
         </div>
     </div>
-    
 </div>

@@ -164,3 +164,18 @@ body {
 .texto_nosotros_banner {
     color: white;
 }
+
+/*******************Contacto*************************************/
+
+.btncontacto{
+  background-color: #00aed1;
+  color: white;
+}
+
+.btncontacto:hover {
+  background-color: #0098ca;
+}
+
+.msjcontacto{
+  max-height: 150px;
+}
