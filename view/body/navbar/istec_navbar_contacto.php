@@ -1,12 +1,3 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: Alejandro
- * Date: 27/02/2019
- * Time: 0:50
- */
-?>
-
     <nav class="container mt-2 mb-2">
         <section class="navbar navbar-expand-lg navbar-light">
 
@@ -32,4 +23,3 @@
             </div>
         </section>
     </nav>
-
