@@ -1,42 +1,41 @@
-<div class="container py-3">
-    <div class="row">
-        <div class="col-md-7">
-            <form action="php/formcontacto.php" method="post">
+
+
+    <div class="container py-3">
+        <section class="text-center">
+            <h2 class="text-services mb-3">¿Qué podemos hacer por ti?</h2>
+            <p class="linea_de_subrayado"></p>
+        </section>
+        <form action="php/formcontacto.php" method="post" class="row mt-4">
+            <section class="col-md-6">
                 <div class="form-group">
-                    <label for="">Nombre</label>
+                    <label for="">Nombres</label>
                     <input type="text" name="nombre" class="form-control" required>
                 </div>
                 <div class="form-group">
                     <label for="">Teléfono</label>
                     <input type="text" name="telefono" class="form-control" required>
                 </div>
+            </section>
+            <section class="col-md-6">
+                <div class="form-group">
+                    <label for="">Compañia / Empresa / Negocio</label>
+                    <input type="text" name="empresa" class="form-control">
+                </div>
                 <div class="form-group">
                     <label for="">Correo</label>
                     <input type="email" name="correo" class="form-control" required>
                 </div>
+            </section>
+            <section class="col-md-12">
                 <div class="form-group">
                     <label for="">Mensaje</label>
-                    <textarea name="mensaje" class="form-control msjcontacto" required></textarea>
+                    <textarea name="mensaje" class="form-control msjcontacto altoMensaje" required></textarea>
                 </div>
+            </section>
+            <section class="col text-right">
                 <div class="form-group">
-                    <input type="submit" class="btn btn-block btncontacto">
+                    <input type="submit" class="btn btncontacto">
                 </div>
-            </form>
-        </div>
-        <div class="col-md-5 col align-self-center">
-            <div class="card text-center">
-                <div class="card-header">
-                    InnovaSysTec
-                </div>
-                <div class="card-body">
-                    <div class="">
-                        Tel: (+51) 999 999 999 <br>
-                        E-mail: innovasystec@gmail.com <br>
-                        <a href="https://www.facebook.com/innovasystec/" class="btn btn-outline-dark text-black m-1" target="_blank"><i class="fab fa-facebook-f"></i> Facebook</a>
-                        <a href="https://www.instagram.com/innovasystec/" class="btn btn-outline-dark text-black m-1" target="_blank"><i class="fab fa-instagram"></i> Instagram</a>
-                    </div>
-                </div>
-            </div>
-        </div>
+            </section>
+        </form>
     </div>
-</div>

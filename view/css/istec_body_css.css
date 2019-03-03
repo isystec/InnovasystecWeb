@@ -140,6 +140,7 @@ body {
 .text-services {
     color: #094151;
     border-bottom: #094151;
+    font-size: 25px;
 }
 
 .linea_de_subrayado {
@@ -168,14 +169,16 @@ body {
 /*******************Contacto*************************************/
 
 .btncontacto{
-  background-color: #00aed1;
-  color: white;
+    background-color: #094151;
+    color: white;
 }
 
 .btncontacto:hover {
-  background-color: #0098ca;
+    background-color: #0098ca;
+    color: white;
 }
 
 .msjcontacto{
-  max-height: 150px;
+    max-height: 150px;
+    min-height: 62px;
 }
