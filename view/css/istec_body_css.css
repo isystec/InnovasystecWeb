@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:300,700');
 
 body {
     font-family: 'Roboto Slab', serif;
@@ -140,7 +140,15 @@ body {
 .text-services {
     color: #094151;
     border-bottom: #094151;
-    font-size: 25px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.text-services-saludo {
+    color: #094151;
+    border-bottom: #094151;
+    font-size: 13px;
+    font-weight: bold;
 }
 
 .linea_de_subrayado {
@@ -152,6 +160,12 @@ body {
 
 
 /*******************Nosotros*************************************/
+.formato-about {
+    letter-spacing: 0.02em;
+    line-height: 40px;
+    font-size: 15px;
+    color: #094151;
+}
 
 .imagen {
     background-image: url("../img/nosotros.jpg");
@@ -160,12 +174,44 @@ body {
 
 .titulo_nosotros_banner {
     color: white;
+    font-weight: bold;
+    font-size: 65px;
 }
 
 .texto_nosotros_banner {
     color: white;
 }
 
+.card {
+    border: none;
+    border-radius: 0;
+}
+
+.fondoNosotros {
+    background-color:  #094151;
+    color: white;
+}
+
+.formatoNosotrosTitulos {
+    /*font-weight: bold;*/
+    font-size: 40px;
+}
+
+.formatoNosotrosTexto {
+    font-size: 17px;
+    line-height: 1.85em;
+    font-family: 'Roboto Slab', serif;
+}
+
+.finalContactenos {
+    font-weight: bold;
+    color: #094151;
+}
+
+.botonEnviar {
+    font-weight: bold;
+    background-color: white;
+}
 /*******************Contacto*************************************/
 
 .btncontacto{

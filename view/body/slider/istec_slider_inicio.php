@@ -16,13 +16,13 @@
         </ol>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="./img/slider_prueba.jpg" class="d-block w-100" alt="...">
+                <img src="./img/slider_prueba.jpg" class="d-block w-100" alt="..." height="600px" width="100%">
             </div>
             <div class="carousel-item">
-                <img src="./img/slider_prueba2.jpg" class="d-block w-100" alt="...">
+                <img src="./img/slider_prueba2.jpg" class="d-block w-100" alt="..." height="600px" width="100%">
             </div>
             <div class="carousel-item">
-                <img src="./img/slider_prueba3.jpg" class="d-block w-100" alt="...">
+                <img src="./img/slider_prueba3.jpg" class="d-block w-100" alt="..." height="600px" width="10px">
             </div>
         </div>
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">

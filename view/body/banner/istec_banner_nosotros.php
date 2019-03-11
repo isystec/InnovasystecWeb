@@ -10,7 +10,7 @@
 
     <div class="jumbotron jumbotron-fluid imagen">
         <div class="container text-center">
-            <h1 class="display-4 titulo_nosotros_banner">Nosotros</h1>
-            <p class="lead texto_nosotros_banner">This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>
+            <h1 class="display-3 titulo_nosotros_banner">Conócenos.</h1>
+<!--            <p class="lead texto_nosotros_banner">This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>-->
         </div>
     </div>
