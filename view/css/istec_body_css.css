@@ -167,8 +167,12 @@ body {
     color: #094151;
 }
 
-.imagen {
+.imagenNosotros {
     background-image: url("../img/nosotros.jpg");
+    background-position: center;
+
+}.imagenContacto {
+    background-image: url("../img/contacto.jpg");
     background-position: center;
 }
 

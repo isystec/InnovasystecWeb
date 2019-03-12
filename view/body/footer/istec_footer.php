@@ -6,7 +6,7 @@
                     <div class="col-md-4 col col-sm-12 py-2">
                         <p class="lead titulos_footer">¿NOS CUENTAS TU PROYECTO?</p>
                         Tel: (+51) 999 999 999 <br>
-                        E-mail: innovasystec@gmail.com
+                        E-mail: info@innovasystec.com
                     </div>
                     <div class="col-md-4 col-sm-6 py-2">
                         <p class="lead titulos_footer">SIGUENOS EN REDES!</p>
