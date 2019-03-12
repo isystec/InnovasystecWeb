@@ -1,3 +1,12 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: Alejandro
+ * Date: 11/03/2019
+ * Time: 22:07
+ */
+?>
+
     <nav class="container mt-2 mb-2">
         <section class="navbar navbar-expand-lg navbar-light">
 
@@ -13,13 +22,13 @@
                     <li class="nav-item">
                         <a id="mt-inicio" class="nav-link letraNav" href="inicio.php">Inicio</a>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item active">
                         <a class="nav-link letraNav" href="servicios.php">Servicios</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link letraNav" href="nosotros.php">Nosotros</a>
                     </li>
-                    <li class="nav-item active">
+                    <li class="nav-item">
                         <a class="nav-link letraNav" href="contacto.php">Contacto</a>
                     </li>
                 </ul>

@@ -176,7 +176,12 @@ body {
     background-position: center;
 }
 
-.titulo_nosotros_banner {
+.imagenServicios {
+    background-image: url("../img/servicios.jpg");
+    background-position: center;
+}
+
+.titulo_banner {
     color: white;
     font-weight: bold;
     font-size: 65px;

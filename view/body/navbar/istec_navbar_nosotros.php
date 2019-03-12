@@ -23,6 +23,9 @@
                     <li class="nav-item">
                         <a id="mt-inicio" class="nav-link letraNav" href="inicio.php">Inicio</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link letraNav" href="servicios.php">Servicios</a>
+                    </li>
                     <li class="nav-item active">
                         <a class="nav-link letraNav" href="nosotros.php">Nosotros</a>
                     </li>
