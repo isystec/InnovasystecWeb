@@ -99,6 +99,9 @@ body {
 .letraNav {
     font-weight: bold;
 }
+.letraNav {
+    font-weight: bold;
+}
 
 /*******************Footer*************************************/
 
@@ -237,3 +240,12 @@ body {
     max-height: 150px;
     min-height: 62px;
 }
+/*******************Extras*************************************/
+
+/*.dropdown:hover>.dropdown-menu {*/
+    /*display: block;*/
+/*}*/
+
+/*.dropdown > .dropdown-toggle:active {*/
+    /*pointer-events: none;*/
+/*}*/

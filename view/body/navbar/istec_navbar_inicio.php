@@ -13,8 +13,13 @@
                     <li class="nav-item active">
                         <a id="mt-inicio" class="nav-link letraNav" href="inicio.php">Inicio</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link letraNav" href="servicios.php">Servicios</a>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link letraNav dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Servicios</a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="serviciosHosting.php">Hosting</a>
+                            <a class="dropdown-item" href="#">Another action</a>
+                            <a class="dropdown-item" href="#">Something else here</a>
+                        </div>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link letraNav" href="nosotros.php">Nosotros</a>

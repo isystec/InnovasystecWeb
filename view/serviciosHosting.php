@@ -14,6 +14,6 @@
     <?php include './referencias/istec_css.php' ?>
     <title>InnovaSysTec</title>
 </head>
-<?php include "./body/istec_body_servicios.php"; ?>
+<?php include "./body/istec_body_serviciosHosting.php"; ?>
 </html>
 
