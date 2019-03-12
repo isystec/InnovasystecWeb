@@ -1,6 +1,6 @@
 <?php
 
-$destino = 'innovasystec@gmail.com';
+$destino = 'info@innovasystec.com';
 $asunto = 'CONTACTO WEB';
 
 $nombre = $_POST['nombre'];
@@ -15,4 +15,3 @@ echo'<script type="text/javascript">
         alert("Mensaje Enviado");
         window.location.href="../inicio.php";
      </script>';
-
