@@ -190,8 +190,9 @@ body {
     font-size: 65px;
 }
 
-.texto_nosotros_banner {
+.texto_banner {
     color: white;
+    font-size: 25px;
 }
 
 .card {

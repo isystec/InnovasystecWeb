@@ -25,9 +25,11 @@
                     <li class="nav-item active dropdown">
                         <a class="nav-link letraNav dropdown-toggle" href="servicios.php" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Servicios</a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <a class="dropdown-item" href="#">Action</a>
-                            <a class="dropdown-item" href="#">Another action</a>
-                            <a class="dropdown-item" href="#">Something else here</a>
+                            <a class="dropdown-item" href="serviciosHosting.php">Hosting</a>
+                            <a class="dropdown-item" href="serviciosDominios.php">Dominios</a>
+                            <a class="dropdown-item" href="serviciosRedes.php">Conectividad y Redes</a>
+                            <a class="dropdown-item" href="serviciosDisenoWeb.php">Diseño Web</a>
+                            <a class="dropdown-item" href="serviciosSistemasWeb.php">Sistemas Web</a>
                         </div>
                     </li>
                     <li class="nav-item">
