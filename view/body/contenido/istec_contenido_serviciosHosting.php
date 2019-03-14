@@ -1,3 +1,13 @@
+<div class="container text-center">
+  <h2 class="text-services text mb-3">¿Qué es un Hosting?</h2>
+  <p class="linea_de_subrayado"></p>
+  <div class="card">
+    <div class="card-body">
+      <p class="justify-text">El hosting o tambien conocido alojamiento web, es el espacio donde se aloja un sitio web para que cualquier persona en el mundo pueda acceder a ella.</p>
+    </div>
+  </div>
+</div>
+
 <div class="container my-4">
   <div class="text-center">
     <h2 class="text-services text mb-3">3 Meses</h2>
