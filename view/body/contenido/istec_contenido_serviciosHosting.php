@@ -3,7 +3,7 @@
   <p class="linea_de_subrayado"></p>
   <div class="card">
     <div class="card-body">
-      <p>El hosting o tambien conocido alojamiento web, es el espacio donde se aloja un sitio web para que cualquier persona en el mundo pueda acceder a ella.</p>
+      <p>El hosting o tambien conocido alojamiento web, es el espacio donde se almacena un sitio web para que cualquier persona en el mundo pueda acceder a ella.</p>
     </div>
   </div>
 </div>
