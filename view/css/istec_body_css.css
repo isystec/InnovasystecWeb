@@ -241,12 +241,8 @@ body {
     max-height: 150px;
     min-height: 62px;
 }
-/*******************Extras*************************************/
+/*******************Cards*************************************/
 
-/*.dropdown:hover>.dropdown-menu {*/
-    /*display: block;*/
-/*}*/
-
-/*.dropdown > .dropdown-toggle:active {*/
-    /*pointer-events: none;*/
-/*}*/
+.negrita {
+    font-weight: bold;
+}
