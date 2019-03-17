@@ -38,8 +38,7 @@
             <div class="card">
                 <img src="./img/card_ejemplo.jpg" class="card-img-top" alt="...">
                 <div class="card-body text-center">
-                    <h5 class="card-title negrita">Sitios Web</h5>
-<!--                    <p class="card-text">A través de un sitio web das a conocer tus ideas, conocimientos, servicios o producto al público mundial alcanzando nuevos mercados y opotunidades.</p>-->
+                    <h5 class="card-title negrita">Desarrollo Web</h5>
                     <p class="card-text">Fundamental para quienes desean dar a conocer su marca a nivel mundial ganando personalidad, seriedad y profesionalismo.</p>
                 </div>
             </div>
@@ -50,21 +49,21 @@
                 <img src="./img/card_ejemplo.jpg" class="card-img-top" alt="...">
                 <div class="card-body text-center">
                     <h5 class="card-title negrita">Conectividad y Redes</h5>
-                    <p class="card-text">El trozo de texto estándar de Lorem Ipsum usado desde el año 1500 es reproducido debajo para aquellos interesados. Las secciones 1.10.32 y 1.10.33 de "de Finibus Bonorum et Malorum" por Cicero son también reproducidas en su forma original exacta, acompañadas por versiones en Inglés de la traducción realizada en 1914 por H. Rackham.</p>
+                    <p class="card-text">Es una gran ventaja el hacer uso de redes informaticas ya que se obtiene un gran ahorro de recursos asi como el evitar gastos innecesarios.</p>
                 </div>
             </div>
             <div class="card">
                 <img src="./img/card_ejemplo.jpg" class="card-img-top" alt="...">
                 <div class="card-body text-center">
                     <h5 class="card-title negrita">Sistemas Web</h5>
-                    <p class="card-text">El trozo de texto estándar de Lorem Ipsum usado desde el año 1500 es reproducido debajo para aquellos interesados. Las secciones 1.10.32 y 1.10.33 de "de Finibus Bonorum et Malorum" por Cicero son también reproducidas en su forma original exacta, acompañadas por versiones en Inglés de la traducción realizada en 1914 por H. Rackham.</p>
+                    <p class="card-text">Serás capaz de acceder, realizar operaciones, generar reportes y ver resultados de forma segura solo con tener conexión a internet.</p>
                 </div>
             </div>
             <div class="card">
                 <img src="./img/card_ejemplo.jpg" class="card-img-top" alt="...">
                 <div class="card-body text-center">
                     <h5 class="card-title negrita">Soporte y Asesoria</h5>
-                    <p class="card-text">El trozo de texto estándar de Lorem Ipsum usado desde el año 1500 es reproducido debajo para aquellos interesados. Las secciones 1.10.32 y 1.10.33 de "de Finibus Bonorum et Malorum" por Cicero son también reproducidas en su forma original exacta, acompañadas por versiones en Inglés de la traducción realizada en 1914 por H. Rackham.</p>
+                    <p class="card-text">Cada uno de nuestros productos o servicios incluyen el derecho a solicitar soporte relacionado a las tecnologías de la información.</p>
                 </div>
             </div>
         </div>
