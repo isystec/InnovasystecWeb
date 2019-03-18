@@ -52,8 +52,6 @@ body {
     font-size: 25px;
 }
 
-
-
 /******************Barra de Navegacion***************************/
 
 @media screen and (min-width: 0px){
@@ -182,6 +180,10 @@ body {
     height: 2px;
     display: inline-block;
     background: #094151;
+}
+
+.card:hover {
+    size: 500px;
 }
 
 

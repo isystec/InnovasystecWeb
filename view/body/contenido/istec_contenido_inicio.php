@@ -13,7 +13,7 @@
         <section class="text-center">
             <h2 class="text-services mb-3">Nuestros Servicios</h2>
             <p class="linea_de_subrayado"></p>
-            <div class="card">
+            <div class="">
                 <div class="card-body">
                     <p>Tenemos a dispocision una variedad de servicios que ofrecerle.</p>
                 </div>

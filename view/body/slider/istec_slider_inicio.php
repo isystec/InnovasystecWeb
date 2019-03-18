@@ -13,6 +13,7 @@
             <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
         </ol>
+<!--        TODO: FALTA CAMBIAR IMAGENES POR UNOS DE ALTURA DE 600PX-->
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <img src="./img/slider1.jpg" class="d-block w-100" alt="..." height="600px">
