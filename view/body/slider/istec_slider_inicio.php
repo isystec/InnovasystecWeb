@@ -7,20 +7,41 @@
  */
 ?>
 
-    <div>
-        <div id="wowslider-container1">
-            <div class="ws_images"><ul>
-                    <li><img src="datosSlider/images/slider_prueba.jpg" alt="slider_prueba" title="slider_prueba" id="wows1_0"/></li>
-                    <li><img src="datosSlider/images/slider_prueba2.jpg" alt="jquery carousel" title="slider_prueba2" id="wows1_1"/></a></li>
-                    <li><img src="datosSlider/images/slider_prueba3.jpg" alt="slider_prueba3" title="slider_prueba3" id="wows1_2"/></li>
-                </ul></div>
-            <div class="ws_bullets"><div>
-                    <a href="#" title="slider_prueba"><span><img src="datosSlider/tooltips/slider_prueba.jpg" alt="slider_prueba"/>1</span></a>
-                    <a href="#" title="slider_prueba2"><span><img src="datosSlider/tooltips/slider_prueba2.jpg" alt="slider_prueba2"/>2</span></a>
-                    <a href="#" title="slider_prueba3"><span><img src="datosSlider/tooltips/slider_prueba3.jpg" alt="slider_prueba3"/>3</span></a>
-                </div></div><div class="ws_script" style="position:absolute;left:-99%"></div>
-            <div class="ws_shadow"></div>
+    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="./img/slider1.jpg" class="d-block w-100" alt="..." height="600px">
+                <div class="carousel-caption d-none d-md-block">
+                    <p class="formatoSlider">GRAN VARIEDAD DE PLANES <a class="formatoSliderAzul">HOSTING Y DOMINIOS</a></p>
+                    <p class="formatoSlider extra">TU WEB ESTARA DISPONIBLE 24/7</p>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="./img/slider2.jpg" class="d-block w-100" alt="..." height="600px">
+                <div class="carousel-caption d-none d-md-block">
+                    <p class="formatoSlider">NOSOTROS DESARROLLAMOS TU <a class="formatoSliderAzul">WEB</a></p>
+                    <p class="formatoSlider extra">LA WEB DE TU EMPRESA ES TU TARJETA DE PRESENTACIÓN</p>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="./img/slider3.jpeg" class="d-block w-100" alt="..." height="600px">
+                <div class="carousel-caption d-none d-md-block">
+                    <p class="formatoSlider">INSTALACIONES DE <a class="formatoSliderAzul">REDES </a>INFORMÁTICAS</p>
+                    <p class="formatoSlider extra">LAS REDES INFORMÁTICAS SON EL SOPORTE FUNDAMENTAL EN LA TRANSFORMACIÓN DIGITAL</p>
+                </div>
+            </div>
         </div>
-        <script type="text/javascript" src="scriptsSlider/wowslider.js"></script>
-        <script type="text/javascript" src="scriptsSlider/script.js"></script>
+        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
     </div>

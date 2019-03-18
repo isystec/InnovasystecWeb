@@ -31,6 +31,29 @@ body {
     color: deepskyblue;
 }
 
+/******************Slider***************************/
+
+.carousel-caption {
+    bottom: 35%;
+}
+
+.formatoSlider {
+    font-weight: bold;
+    font-size: 45px;
+    font-family: 'Righteous', cursive;
+    letter-spacing: 2.5px;
+}
+
+.formatoSliderAzul {
+    color: #00aed1!important;
+}
+
+.extra {
+    font-size: 25px;
+}
+
+
+
 /******************Barra de Navegacion***************************/
 
 @media screen and (min-width: 0px){

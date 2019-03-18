@@ -13,9 +13,6 @@
 
     <link rel="shortcut icon" type="image/x-icon" href="./img/favicon.ico">
 
-    <link rel="stylesheet" type="text/css" href="scriptsSlider/style.css" />
-    <script type="text/javascript" src="scriptsSlider/jquery.js"></script>
-
     <link rel="stylesheet" href="./css/bootstrap.min.css">
     <link rel="stylesheet" href="./css/istec_body_css.css">
     <link href="https://fonts.googleapis.com/css?family=Righteous" rel="stylesheet">
