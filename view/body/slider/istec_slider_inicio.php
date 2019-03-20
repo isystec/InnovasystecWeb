@@ -13,27 +13,26 @@
             <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
         </ol>
-<!--        TODO: FALTA CAMBIAR IMAGENES POR UNOS DE ALTURA DE 600PX-->
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="./img/slider1.jpg" class="d-block w-100" alt="..." height="600px">
-                <div class="carousel-caption d-none d-md-block">
-                    <p class="formatoSlider">GRAN VARIEDAD DE PLANES <a class="formatoSliderAzul">HOSTING Y DOMINIOS</a></p>
+                <img src="./img/slider1.jpg" class="d-block w-100" alt="..." height="">
+                <div class="carousel-caption d-md-block">
+                    <p class="formatoSlider">GRAN VARIEDAD DE PLANES DE <a class="formatoSliderAzul">HOSTING Y DOMINIOS</a></p>
                     <p class="formatoSlider extra">TU WEB ESTARA DISPONIBLE 24/7</p>
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="./img/slider2.jpg" class="d-block w-100" alt="..." height="600px">
-                <div class="carousel-caption d-none d-md-block">
+                <img src="./img/slider2.jpg" class="d-block w-100" alt="..." height="">
+                <div class="carousel-caption d-md-block">
                     <p class="formatoSlider">NOSOTROS DESARROLLAMOS TU <a class="formatoSliderAzul">WEB</a></p>
                     <p class="formatoSlider extra">LA WEB DE TU EMPRESA ES TU TARJETA DE PRESENTACIÓN</p>
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="./img/slider3.jpeg" class="d-block w-100" alt="..." height="600px">
-                <div class="carousel-caption d-none d-md-block">
-                    <p class="formatoSlider">INSTALACIONES DE <a class="formatoSliderAzul">REDES </a>INFORMÁTICAS</p>
-                    <p class="formatoSlider extra">LAS REDES INFORMÁTICAS SON EL SOPORTE FUNDAMENTAL EN LA TRANSFORMACIÓN DIGITAL</p>
+                <img src="./img/slider3.jpeg" class="d-block w-100" alt="..." height="">
+                <div class="carousel-caption d-md-block">
+                    <p class="formatoSlider">INSTALACIÓN DE <a class="formatoSliderAzul">REDES </a>INFORMÁTICAS</p>
+                    <p class="formatoSlider extra">SON FUNDAMENTALES EN LA TRANSFORMACIÓN DIGITAL</p>
                 </div>
             </div>
         </div>

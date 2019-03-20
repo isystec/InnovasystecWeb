@@ -33,26 +33,11 @@ body {
 
 /******************Slider***************************/
 
-.carousel-caption {
-    bottom: 35%;
-}
 
-.formatoSlider {
-    font-weight: bold;
-    font-size: 45px;
-    font-family: 'Righteous', cursive;
-    letter-spacing: 2.5px;
-}
 
-.formatoSliderAzul {
-    color: #00aed1!important;
-}
 
-.extra {
-    font-size: 25px;
-}
 
-/******************Barra de Navegacion***************************/
+/******************Barra de Navegacion y Sliders***************************/
 
 @media screen and (min-width: 0px){
     .letraLogo {
@@ -62,6 +47,26 @@ body {
 
     .letraLogo:after {
         content: 'ISysTec';
+    }
+
+    /*Sliders*/
+    .formatoSlider {
+        font-weight: bold;
+        font-size: 10px;
+        font-family: 'Righteous', cursive;
+        letter-spacing: 1px;
+    }
+
+    .formatoSliderAzul {
+        color: #00aed1!important;
+    }
+
+    .extra {
+        display: none;
+    }
+
+    .carousel-caption {
+        bottom: 15%;
     }
 }
 
@@ -74,6 +79,27 @@ body {
     .letraLogo:after {
         content: 'ISysTec';
     }
+
+    /*Sliders*/
+    .formatoSlider {
+        font-weight: bold;
+        font-size: 12px;
+        font-family: 'Righteous', cursive;
+        letter-spacing: 1px;
+    }
+
+    .formatoSliderAzul {
+        color: #00aed1!important;
+    }
+
+    .extra {
+        display: none;
+    }
+
+    .carousel-caption {
+        bottom: 25%;
+    }
+
 }
 
 @media screen and (min-width: 425px){
@@ -84,6 +110,27 @@ body {
 
     .letraLogo:after {
         content: 'ISysTec';
+    }
+
+    /*Sliders*/
+    .formatoSlider {
+        font-weight: bold;
+        font-size: 20px;
+        font-family: 'Righteous', cursive;
+        letter-spacing: 1px;
+    }
+
+    .formatoSliderAzul {
+        color: #00aed1!important;
+    }
+
+    .extra {
+        font-size: 10px;
+        display: none;
+    }
+
+    .carousel-caption {
+        bottom: 25%;
     }
 }
 
@@ -96,6 +143,29 @@ body {
     .letraLogo:after {
         content: 'InnovaSysTec';
     }
+
+    /*Sliders*/
+
+    .formatoSlider {
+        font-weight: bold;
+        font-size: 35px;
+        font-family: 'Righteous', cursive;
+        letter-spacing: 2.5px;
+    }
+
+    .formatoSliderAzul {
+        color: #00aed1!important;
+    }
+
+    .extra {
+        font-size: 20px;
+        display: block;
+    }
+
+    .carousel-caption {
+        bottom: 10%;
+    }
+
 }
 
 @media screen and (min-width: 992px){
@@ -106,6 +176,58 @@ body {
 
     .letraLogo:after {
         content: 'InnovaSysTec';
+    }
+
+
+    /*Sliders*/
+    .formatoSlider {
+        font-weight: bold;
+        font-size: 40px;
+        font-family: 'Righteous', cursive;
+        letter-spacing: 2.5px;
+    }
+
+    .formatoSliderAzul {
+        color: #00aed1!important;
+    }
+
+    .extra {
+        font-size: 22px;
+    }
+
+    .carousel-caption {
+        bottom: 25%;
+    }
+}
+@media screen and (min-width: 1440px){
+    .letraLogo {
+        font-size: 30px;
+        font-family: 'Righteous', cursive;
+    }
+
+    .letraLogo:after {
+        content: 'InnovaSysTec';
+    }
+
+    /*Sliders*/
+
+    .formatoSlider {
+        font-weight: bold;
+        font-size: 45px;
+        font-family: 'Righteous', cursive;
+        letter-spacing: 2.5px;
+    }
+
+    .formatoSliderAzul {
+        color: #00aed1!important;
+    }
+
+    .extra {
+        font-size: 25px;
+    }
+
+    .carousel-caption {
+        bottom: 35%;
     }
 }
 
@@ -127,7 +249,7 @@ body {
 /*******************Footer*************************************/
 
 .detalles_footer {
-    background-color: #00aed1;
+    background-color: #3087B4;
     color: white;
 }
 
@@ -155,7 +277,7 @@ body {
 }
 
 .footer_botom {
-    background-color: #0098ca;
+    background-color: #143D55;
     font-size: 15px;
 }
 
@@ -180,10 +302,6 @@ body {
     height: 2px;
     display: inline-block;
     background: #094151;
-}
-
-.card:hover {
-    size: 500px;
 }
 
 
@@ -268,6 +386,17 @@ body {
 }
 /*******************Cards*************************************/
 
+.card:hover {
+    -webkit-box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
+    -box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
+}
+
 .negrita {
     font-weight: bold;
+}
+
+.card-img-top {
+    width: 60%;
+    align-items: center;
 }

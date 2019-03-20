@@ -1,6 +1,6 @@
 <div class="container">
   <div class="text-center">
-    <h2 class="text-services text mb-3">Planes Diseño Web</h2>
+    <h2 class="text-services text mb-3">Planes Desarrollo Web</h2>
     <p class="linea_de_subrayado"></p>
   </div>
   <div class="row text-center">
