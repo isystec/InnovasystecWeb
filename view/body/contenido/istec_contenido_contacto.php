@@ -29,7 +29,7 @@
             <section class="col-md-12">
                 <div class="form-group">
                     <label for="">Mensaje</label>
-                    <textarea name="mensaje" class="form-control msjcontacto altoMensaje" required></textarea>
+                    <textarea id="mensaje" name="mensaje" class="form-control msjcontacto altoMensaje" required></textarea>
                 </div>
             </section>
             <section class="col text-right">
