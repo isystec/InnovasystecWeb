@@ -68,7 +68,7 @@
         <h1 class="finalContactenos mt-5">Envíenos un correo electrónico</h1>
         <section class="row">
             <div class="col mt-4 mb-1">
-                <a href="./contacto.php#contactanos" type="button" class="btn btn-outline-dark botonEnviar">Enviar</a>
+                <button type="button" class="btn btn-secondary" onclick="location.href='contacto.php#contactanos'">Enviar</button>
             </div>
         </section>
     </section>
