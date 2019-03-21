@@ -13,7 +13,6 @@
                     <li>30 cuentas de correo</li>
                     <li>Instalacion de Seguridad SSL (RapidSSL por un año)</li>
                     <li>Privilegios por usuario</li>
-                    <li>Listo en 20 días</li>
                 </ul>
                 <div class="pricingTable-firstTable_table__getstart" onclick="location.href='contacto.php#contactanos'">Solicitar</div>
             </li>

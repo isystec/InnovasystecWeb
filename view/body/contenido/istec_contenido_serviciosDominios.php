@@ -1,7 +1,7 @@
 <div class="container text-center">
   <h2 class="text-services text mb-3">¿Qué es un Dominio?</h2>
   <p class="linea_de_subrayado"></p>
-  <div class="card">
+  <div class="">
     <div class="card-body">
       <p>Es el nombre único que se le da a un sitio web en Internet, para que todos los usuarios puedan acceder a ella.</p>
     </div>
@@ -33,7 +33,7 @@
   <div class="text-center">
     <h2 class="text-services text mb-3">Certificado RapidSSL</h2>
     <p class="linea_de_subrayado"></p>
-    <div class="card">
+    <div class="">
       <div class="card-body">
         <p>Asegure su Web mediante cifrado SSL (Secure Sockets Layer) de encriptación robusta, la tecnología más potente para salvaguardar la integridad de la información y la autenticidad de quienes intervienen en los intercambios digitales.
            Asegurar la transmisión de información en sus transacciones, además de suponer una medida de seguridad imprescindible, le reporta beneficios adicionales. Muestra a sus clientes que su gestión es de total confianza y ofrece una imagen de seriedad y profesionalidad.
@@ -57,4 +57,5 @@
       </tr>
     </tbody>
   </table>
+    <br><br>
 </div>
